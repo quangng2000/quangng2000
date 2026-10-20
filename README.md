@@ -4,6 +4,8 @@
 
 I focus on machine learning research. My projects explore program compilation into transformer components, speech restoration with pretrained audio representations, language-model steering with learned twisting functions and sequential Monte Carlo, and formal proofs of the mathematical foundations of learning.
 
+I'm also a **contributor and maintainer of [LemmaScript](https://github.com/midspiral/LemmaScript)**, a verification toolchain for TypeScript.
+
 ## Research interests
 
 - Program compilation and neuro-symbolic learning in transformers
