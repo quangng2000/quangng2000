@@ -82,6 +82,18 @@ I'm also a **contributor and maintainer of [LemmaScript](https://github.com/mids
       <p><a href="https://github.com/quangng2000/lean-elbo">Code</a> · <a href="https://quangng2000.github.io/projects/lean-elbo/">Project details</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="32%" valign="top">
+      <a href="https://quangng2000.github.io/projects/lemmascript/">
+        <img src="assets/research/lemmascript.svg" width="260" alt="Annotated TypeScript passes through LemmaScript to Dafny or Lean 4 for formal verification.">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/midspiral/LemmaScript">LemmaScript</a></h3>
+      <p><strong>Contributor and maintainer.</strong> A verification toolchain for TypeScript, with Dafny and Lean 4 backends.</p>
+      <p><a href="https://github.com/midspiral/LemmaScript">Code</a> · <a href="https://github.com/midspiral/LemmaScript/blob/main/GETTING_STARTED.md">Documentation</a> · <a href="https://quangng2000.github.io/projects/lemmascript/">Project details</a></p>
+    </td>
+  </tr>
 </table>
 
 More project notes and demonstrations are on my [website](https://quangng2000.github.io/).
