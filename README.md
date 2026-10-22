@@ -18,6 +18,19 @@ I'm also a **contributor and maintainer of [LemmaScript](https://github.com/mids
 <table>
   <tr>
     <td width="32%" valign="top">
+      <a href="https://quangng2000.github.io/projects/h-wavjepa/">
+        <img src="assets/research/h-wavjepa-three-latent-spaces.png" width="260" alt="Proposed H-WavJEPA architecture with fine, intermediate, and coarse latent spaces, separate predictors, EMA targets, and per-level losses.">
+      </a>
+      <br><sub>Proposed forecasting design; illustrative horizons.</sub>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/quangng2000/h-wavjepa">H-WavJEPA</a></h3>
+      <p>Hierarchical audio representation research with three learned latent spaces, EMA targets, and a PyTorch Lightning + Hydra training workflow.</p>
+      <p><a href="https://github.com/quangng2000/h-wavjepa">Code</a> · <a href="https://quangng2000.github.io/projects/h-wavjepa/">Project details</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="top">
       <a href="https://quangng2000.github.io/projects/riftco-transformer/">
         <img src="assets/research/cajal-pipeline.svg" width="260" alt="Cajal-lite program compiled through linear type checking and a multilinear map into programmed linear attention.">
       </a>
