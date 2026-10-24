@@ -18,6 +18,19 @@ I'm also a **contributor and maintainer of [LemmaScript](https://github.com/mids
 <table>
   <tr>
     <td width="32%" valign="top">
+      <a href="https://quangng2000.github.io/projects/reuse-apple/">
+        <img src="assets/research/reuse-apple.svg" width="260" alt="RE-USE Apple: offline speech enhancement with a shared Swift, MLX, and Metal inference engine.">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/quangng2000/reuse-apple">RE-USE Apple</a></h3>
+      <p>An independent Swift / MLX / Metal port of NVIDIA NemotronLabs RE-USE for offline speech enhancement, using NVIDIA's pretrained 9.61M model through a Mac CLI and an iPhone/iPad app target.</p>
+      <p>M4 Pro GPU inference verified. The iPhone/iPad build passes; physical-device validation is pending.</p>
+      <p><a href="https://github.com/quangng2000/reuse-apple">Code</a> · <a href="https://quangng2000.github.io/projects/reuse-apple/">Project details</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="top">
       <a href="https://quangng2000.github.io/projects/h-wavjepa/">
         <img src="assets/research/h-wavjepa-three-latent-spaces.png" width="260" alt="Proposed H-WavJEPA architecture with fine, intermediate, and coarse latent spaces, separate predictors, EMA targets, and per-level losses.">
       </a>
